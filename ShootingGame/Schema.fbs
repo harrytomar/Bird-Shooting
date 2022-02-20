@@ -1,0 +1,15 @@
+
+struct pos{
+  x:float;
+  y:float;
+}
+
+table contents
+ {
+	playerPos: pos;
+	Player1Score:int;
+	Player2Score:int;
+	PlayerTurn:int;
+}
+ 
+root_type contents;
